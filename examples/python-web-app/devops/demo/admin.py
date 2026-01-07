@@ -1,3 +1,4 @@
 from django.contrib import admin
 
-# Register your models here.
+http://3.111.41.140:8000/admin/
+
